@@ -6,7 +6,7 @@ Hey! 🎉 **Click The Cookie** is a simple game. Click the cookie to get points 
 
 - Click the cookie for points.
 - Spend points on upgrades and backgrounds.
-- Very basic screen and interface.
+- Very basic screen and interface, not fully user-friendly.
 - Change cookie sound in the pause menu.
 
 ## Technical Info

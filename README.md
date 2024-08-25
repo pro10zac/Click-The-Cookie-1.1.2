@@ -12,7 +12,7 @@ Hey! 🎉 **Click The Cookie** is a simple game. Click the cookie to get points 
 ## Technical Info
 
 - Runs at 30 FPS.
-- Works on 32-bit systems.
+- Works on 32-bit and 64 bit systems.
 - SmartScreen Warning: Click **More info** and **Run anyway**. It’s safe, but you can scan it if you want.
 - Square resolution, even in fullscreen.
 

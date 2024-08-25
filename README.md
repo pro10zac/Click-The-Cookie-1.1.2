@@ -18,7 +18,7 @@ Hey! 🎉 **Click The Cookie** is a simple game. Click the cookie to get points 
 
 ## How to Play
 
-1. **Download**: `Click The Cookie 1.1.2` zip.
+1. **Download**: `Click The Cookie 1.1.2` zip from the latest release or your chosen release.
 2. **Unzip**: Extract the files.
 3. **Run**: Double-click `ClickTheCookie.exe`.
 4. **Bypass SmartScreen**: Click **More info**, then **Run anyway**.
